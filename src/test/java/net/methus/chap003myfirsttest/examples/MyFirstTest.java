@@ -19,8 +19,8 @@ public class MyFirstTest {
 
     @Test
     public void canMultiplyTwoByTwo(){
-        int answerMultipy = 2 * 2;
-        assertEquals("2 * 2 = 4", 4, answerMultipy);
+        int answerMultiply = 2 * 2;
+        assertEquals("2 * 2 = 4", 4, answerMultiply);
     }
 
     @Test
