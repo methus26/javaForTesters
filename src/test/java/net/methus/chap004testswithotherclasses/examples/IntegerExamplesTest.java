@@ -7,6 +7,7 @@ public class IntegerExamplesTest {
 
     @Test
     public void integerExploration(){
+        // Boxing (unnecessary in this case)
         Integer four = new Integer(4);
         assertEquals("intValue returns int 4", 4, four.intValue());
 
